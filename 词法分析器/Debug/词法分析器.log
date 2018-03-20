@@ -1,0 +1,7 @@
+﻿  file.cpp
+f:\重庆大学\my3drender\词法分析器\词法分析器\scaner.h(81): warning C4018: “<”: 有符号/无符号不匹配
+f:\重庆大学\my3drender\词法分析器\词法分析器\scaner.h(112): warning C4018: “<”: 有符号/无符号不匹配
+f:\重庆大学\my3drender\词法分析器\词法分析器\parser.h(41): warning C4715: “getRowNum”: 不是所有的控件路径都返回值
+f:\重庆大学\my3drender\词法分析器\词法分析器\parser.h(78): warning C4715: “getColNum”: 不是所有的控件路径都返回值
+  词法分析器.vcxproj -> F:\重庆大学\my3DRender\词法分析器\Debug\词法分析器.exe
+  词法分析器.vcxproj -> F:\重庆大学\my3DRender\词法分析器\Debug\词法分析器.pdb (Partial PDB)
